@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Implementation Playbook — Build Order & Shared Development Standard"
+---
+
 # Implementation Playbook — Build Order & Shared Development Standard
 
 ## 1. Recommended build sequence

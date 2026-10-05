@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S08 — Asphalt Weather & Thermal Compaction Planner"
+---
+
 # S08 — Asphalt Weather & Thermal Compaction Planner
 
 ## 1. Purpose

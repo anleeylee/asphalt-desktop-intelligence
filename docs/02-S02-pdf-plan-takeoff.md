@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S02 — PDF Paving Plan Takeoff Skill"
+---
+
 # S02 — PDF Paving Plan Takeoff Skill
 
 ## 1. Purpose

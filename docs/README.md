@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Asphalt Desktop Intelligence — Development Package"
+---
+
 # Asphalt Desktop Intelligence — Development Package
 
 This package turns the AsphaltCosts web calculator into a modular desktop workflow. It deliberately avoids a single giant AI agent.

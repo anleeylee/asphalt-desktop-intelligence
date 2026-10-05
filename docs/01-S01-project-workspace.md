@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S01 — Asphalt Project Workspace Manager"
+---
+
 # S01 — Asphalt Project Workspace Manager
 
 ## 1. Purpose

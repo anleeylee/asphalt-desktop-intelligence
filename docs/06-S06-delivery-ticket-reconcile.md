@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S06 — Asphalt Delivery Ticket Reconciliation Skill"
+---
+
 # S06 — Asphalt Delivery Ticket Reconciliation Skill
 
 ## 1. Purpose

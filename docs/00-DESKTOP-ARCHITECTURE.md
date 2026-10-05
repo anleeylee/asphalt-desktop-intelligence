@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Asphalt Desktop Intelligence — Modular Script/Skill Architecture"
+---
+
 # Asphalt Desktop Intelligence — Modular Script/Skill Architecture
 
 **Version:** v1.0  

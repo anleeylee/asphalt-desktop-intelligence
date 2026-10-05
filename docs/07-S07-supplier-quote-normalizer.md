@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S07 — Supplier Quote & Material Price Normalizer"
+---
+
 # S07 — Supplier Quote & Material Price Normalizer
 
 ## 1. Purpose

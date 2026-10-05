@@ -1,3 +1,8 @@
+---
+layout: default
+title: "S03 — CAD / DWG / DXF Paving Takeoff Skill"
+---
+
 # S03 — CAD / DWG / DXF Paving Takeoff Skill
 
 ## 1. Purpose
