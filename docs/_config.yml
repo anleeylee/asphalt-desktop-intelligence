@@ -1,3 +1,5 @@
 title: Asphalt Desktop Intelligence
 description: Desktop companion tools for the AsphaltCosts.com web calculation engine — PDF/CAD quantity takeoff, specification checking, quote comparison, delivery-ticket reconciliation, supplier price normalization, weather compaction planning, field photo analysis and audit-ready estimate reports.
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
