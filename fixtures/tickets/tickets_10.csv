@@ -1,0 +1,11 @@
+plant,supplier,truck_id,load_id,date,time,mix,net_tons,gross,tare
+Austin Plant,City Rock,TR-101,LD-1001,10/03/2026,07:15,PG 64-22,20.0,45.2,25.2
+Austin Plant,City Rock,TR-101,LD-1002,10/03/2026,08:05,PG 64-22,20.0,45.1,25.1
+Austin Plant,City Rock,TR-102,LD-1003,10/03/2026,08:55,PG 64-22,20.0,45.0,25.0
+Austin Plant,City Rock,TR-102,LD-1004,10/03/2026,09:45,PG 64-22,20.0,45.2,25.2
+Austin Plant,City Rock,TR-103,LD-1005,10/03/2026,10:35,PG 64-22,20.0,45.3,25.3
+Austin Plant,City Rock,TR-103,LD-1006,10/03/2026,11:25,PG 64-22,19.5,44.7,25.2
+Austin Plant,City Rock,TR-101,LD-1007,10/03/2026,12:15,PG 64-22,20.0,45.1,25.1
+Austin Plant,City Rock,TR-102,LD-1008,10/03/2026,13:05,PG 64-22,20.0,45.0,25.0
+Austin Plant,City Rock,TR-103,LD-1009,10/03/2026,13:55,PG 64-22,19.9,44.9,25.0
+Austin Plant,City Rock,TR-101,LD-1010,10/03/2026,14:45,PG 64-22,20.0,45.2,25.2

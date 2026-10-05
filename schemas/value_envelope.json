@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ValueEnvelope",
+  "description": "Mandatory evidence envelope for any important value (00-DESKTOP-ARCHITECTURE section 6).",
+  "type": "object",
+  "required": ["value", "method", "confidence", "state", "verified"],
+  "properties": {
+    "value": {},
+    "unit": {"type": ["string", "null"]},
+    "source_file": {"type": ["string", "null"]},
+    "source_page": {"type": ["integer", "null"]},
+    "source_region": {"type": ["string", "null"]},
+    "method": {"type": "string"},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "state": {"enum": ["EXTRACTED", "NORMALIZED", "VALIDATED", "VERIFIED"]},
+    "verified": {"type": "boolean"},
+    "quoted_context": {"type": ["string", "null"]},
+    "notes": {"type": ["string", "null"]}
+  }
+}

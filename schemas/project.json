@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProjectJSON",
+  "description": "S01 project.json contract.",
+  "type": "object",
+  "required": ["project_id", "name", "documents"],
+  "properties": {
+    "project_id": {"type": "string"},
+    "name": {"type": "string"},
+    "location": {"type": ["string", "null"]},
+    "units": {"type": "string"},
+    "documents": {"type": "array", "items": {"type": "object"}},
+    "takeoffs": {"type": "array"},
+    "specifications": {"type": "array"},
+    "quotes": {"type": "array"},
+    "tickets": {"type": "array"},
+    "supplier_prices": {"type": "array"},
+    "photos": {"type": "array"},
+    "weather_runs": {"type": "array"},
+    "calculation_runs": {"type": "array"}
+  }
+}
