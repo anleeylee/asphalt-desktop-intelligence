@@ -96,6 +96,30 @@ docs/       architecture & per-script specifications
 
 MIT — see [LICENSE](LICENSE).
 
+## Standalone per-tool repositories
+
+Each business scenario is also published as its **own standalone GitHub repository**
+(own README, tests, fixtures, license and its own visible link back to
+[AsphaltCosts.com](https://asphaltcosts.com/)), rebuilt from this monorepo with:
+
+```powershell
+python tools/build_subrepos.py
+```
+
+| Repository | Script |
+|---|---|
+| `asphalt-pdf-plan-takeoff` | S02 |
+| `asphalt-specification-checker` | S04 |
+| `asphalt-quote-comparator` | S05 |
+| `asphalt-delivery-ticket-reconciler` | S06 |
+| `asphalt-supplier-quote-normalizer` | S07 |
+| `asphalt-weather-compaction-planner` | S08 |
+| `asphalt-field-photo-analyzer` | S09 |
+| `asphalt-estimate-report-builder` | S10 |
+
+Each standalone repo is fully self-contained (embedded `common/` foundation) and passes
+its own golden test suite.
+
 ## The web calculation engine
 
 [**AsphaltCosts.com**](https://asphaltcosts.com/) — asphalt tonnage, cost, coverage, truckload and paving calculators: area → compacted volume → net tons → order tons (allowance applied once) → truckloads → material cost, with sourced planning defaults (145 lb/ft³ FHWA density, editable allowance and truck capacity).
