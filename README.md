@@ -1,6 +1,6 @@
 # Asphalt Desktop Intelligence
 
-**Desktop companion tools for the [AsphaltCosts.com](https://asphaltcosts.com/) web calculation engine** — project workspace, PDF/CAD takeoff, specification checking, quote comparison, delivery-ticket reconciliation, supplier price normalization, weather/thermal compaction planning, field photo screening and audit-ready estimate reporting.
+**Desktop companion tools for the AsphaltCosts.com web calculation engine** — project workspace, PDF/CAD takeoff, specification checking, quote comparison, delivery-ticket reconciliation, supplier price normalization, weather/thermal compaction planning, field photo screening and audit-ready estimate reporting.
 
 The web site stays the deterministic calculation layer: **tons, volume, coverage, truckloads and material cost come from the AsphaltCosts engine**, never from re-implemented desktop math. These scripts solve the tasks that need local files, batch processing, OCR, CAD parsing, project evidence, AI document understanding or local automation — and they feed normalized, validated values *into* the engine.
 
